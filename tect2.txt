@@ -1,4 +1,3 @@
-adding a new line again to finally cause merge conflicts.
-had a create a new line character to do it.
-when the going gets tough the tough gets going.
-will be a difficult if you dont enjoy what you do, really have to learn a way to enjoy.
+trying to create a merge conflict very badly.
+dont know why it's not working.trying very very hard.
+hope this works so i can go to the next part and finish this off
