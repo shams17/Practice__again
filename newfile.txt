@@ -1,4 +1,4 @@
-looking at merge conflicts
+creating a merge conflicts
 first line addedadded another line
 added second line as well
 added third line
