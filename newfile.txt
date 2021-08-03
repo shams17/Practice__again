@@ -1,2 +1,3 @@
 Practicing git commands
-first line added
+first line addedadded another line
+added second line as well
