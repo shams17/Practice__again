@@ -1,3 +1,3 @@
 trying to create a merge conflict very badly.
-dont know why it's not working.trying very very hard.
-hope this works so i can go to the next part and finish this off
+why is this not working? i am clearly changing the same line.
+dont know why this is happening.ridiculous.
