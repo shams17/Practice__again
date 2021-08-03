@@ -1,0 +1,4 @@
+trying to create a merge conflict very badly.
+why is this not working? i am clearly changing the same line.
+dont know why this is happening.ridiculous.
+finally it has worked, dont know what was wrong.
