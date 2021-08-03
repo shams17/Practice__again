@@ -1,3 +1,8 @@
+
+Practicing git commands
+first line added.
+added a mew line
+added one more line
 creating a merge conflicts
 first line addedadded another line
 added second line as well
